@@ -1,0 +1,22 @@
+						<table id="table">
+								<tr>
+									<th><h4><img class="engine" src="img/engine.svg"> HABILIDADES</h4></th>
+									<th><h4><img class="logros" src="img/logros.svg"> CONOCIEMIENTOS</h4></th>
+								</tr>
+								<tr>
+									<td><ul><li>Puntual</li></ul></td>
+									<td><ul><li>Conocimientos en Sistemas Operativos</li></ul></td>
+								</tr>
+								<tr>
+								<td><ul><li>Pulcro</li></ul></td>
+								<td><ul><li>Conocimientos en el paquete Office</ul></li><td>
+								</tr>
+								<tr>
+								<td><ul><li>Respetuoso</li></ul></td>
+								<td><ul><li>Conocimientos en Redes</ul></li><td>
+								</tr>
+								<tr>
+								<td><ul><li>Curioso</li></ul></td>
+								<td><ul><li>Conocimientos en montaje de ordenadores</li></ul><td>
+								</tr>
+						</table>

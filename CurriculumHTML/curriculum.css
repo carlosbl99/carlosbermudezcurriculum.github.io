@@ -1,0 +1,114 @@
+/* ---------------- ASIDE - */
+/*aside {
+	background-color: #4aa4ec;
+} */
+body{
+	font-family: arial;
+	 }
+aside * {
+	color: white;
+}
+aside ul{
+	text-align: justify-all;
+}
+
+img{
+	border-radius: 70%;
+}
+
+ul {
+	list-style-type: none;
+}
+
+article ul {
+	list-style-type: circle;
+}
+.ultimalista {
+	list-style-type: disc;
+}
+.perfil h4{
+	border-bottom: none;
+	text-align: center;
+}
+.perfil ul{
+	border-bottom: none;
+	text-align: left;
+}
+.contenido{
+	margin-left: 28%;
+	margin-right: 5%;
+}
+.contenedor{
+
+	display:flex;
+	background-color: white;
+}
+.elemento1{
+	padding-top: 4%;
+	width: 34%;
+	height: 1200px;
+	background: #009DDC;
+	text-align: center;
+}
+.elemento2 {
+	background-color: white;
+	margin-right:0%; 
+	margin-left:38px;
+	width: 90%;	
+}
+.fotoex{
+	background: url(img/bussines.svg);
+	background-size:30px 30px;
+	background-repeat: no-repeat;
+}
+.azul{
+	margin-left: 40px;
+	color: #009DDC;
+
+}
+.fotoform{
+	background: url(img/academi.svg);
+	background-size:30px 30px;
+	background-repeat: no-repeat;
+	padding-bottom: 10px; 
+}
+.fotohabil{
+	background: url(img/engine.svg);
+	background-size:30px 30px;
+	background-repeat: no-repeat;
+	padding-bottom: 10px; 
+}
+.fotocono{
+	background: url(img/logros.svg);
+	background-size:30px 30px;
+	background-repeat: no-repeat;
+	padding-bottom: 10px; 
+}
+.fotoap h4{
+	background: url(img/update.svg);
+	background-size:30px 30px;
+	background-repeat: no-repeat;
+/*	background-position-y: 12em;*/
+}
+hr{
+	width: 50%;
+	border: 1px solid;
+}
+.gris{
+	color: grey ;
+}
+.habil{
+	height: 150px;
+	width: 200px;
+	float: left;
+	margin-left: 10px;
+}
+.cono{
+	height: 227px;
+	width: 314px;
+	float: left;
+}
+.otras{
+	height: 193px;
+	width: 220px;
+}
